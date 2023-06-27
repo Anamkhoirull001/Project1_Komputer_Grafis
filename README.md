@@ -1,7 +1,11 @@
 # Visualisasi Data Mini Project 1
+
+![image](https://github.com/Anamkhoirull001/Project1_Komputer_Grafis/assets/110075674/98bb4c72-39fb-4687-9453-17372afd0b3a)
+
+
 Hallo perkenalkan saya ***Khoirul Anam*** dalam repo ini berisi tugas project 1 dari matakuliah komputer grafis tahun 2023 terkhusus
 untuk ***Bu RASTRI PRATHIVI, S.Kom., M.Kom*** bisa langsung kujungi link dibawah untuk mempermudah penilaian, terspesial untuk anda
-dapat juga bisa langsung kunjungi akun **google colab** saya pada link https://colab.research.google.com/drive/1fxzmpVRgrf-13PXQ1PRuh2HmsK0MVbvV?usp=sharing 
+dapat juga bisa langsung kunjungi akun **google colab** saya pada [Link google colaboratory](https://colab.research.google.com/drive/1fxzmpVRgrf-13PXQ1PRuh2HmsK0MVbvV?usp=sharing) 
 untuk melihat lengkap kodingan berserta semua  instruksinya
 
 ***1: Menentukan brand top 5***
